@@ -15,3 +15,7 @@
 ### notes 文件夹 
 
 笔记
+
+- [阅读lodash源码——Math（一）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_1.md)
+- [阅读lodash源码——Math（二）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_2.md)
+- [阅读lodash源码——Math（三）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_3.md)
