@@ -1,10 +1,10 @@
 ## 前言
 
-最近有点咸鱼，读读 `lodash` 的源码吧，了解了解实现方法和思想，然后输出自己的想法，包括对源码的注释和笔记，笔记这部分主要是按照 [`lodash` 文档](https://lodash.com/docs/4.17.4) 的分类分为以下几篇：
+读读 `lodash` 的源码吧，了解了解实现方法和思想，然后输出自己的想法，包括对源码的注释和笔记，笔记这部分主要是按照 [`lodash` 文档](https://lodash.com/docs/4.17.4) 的分类分为以下几篇：
 
-- 阅读lodash源码——Math（一）
-- 阅读lodash源码——Math（二）
-- 阅读lodash源码——Math（三）
+- [阅读lodash源码——Math（一）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_1.md)
+- [阅读lodash源码——Math（二）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_2.md)
+- [阅读lodash源码——Math（三）](https://github.com/axuebin/lodash_notes/blob/master/notes/Math_3.md)
 
 ## 
 
