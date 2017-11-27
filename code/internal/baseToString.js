@@ -23,11 +23,11 @@ function baseToString(value) {
   if (Array.isArray(value)) {
     return `${value.map(baseToString)}`
   }
-  // 如果是Symbol类型的，用toTring.call来转换
+  // 如果是Symbol类型的，用toString.call来转换
   if (isSymbol(value)) {
     return symbolToString ? symbolToString.call(value) : ''
   }
-  // 如果都不是，就直接用模板字符串的方式返回字符串吧
+  // 如果都不是，就直接用模板字符串的方式返回字符串
   const result = `${value}`
   return (result == '0' && (1 / value) == -INFINITY) ? '-0' : result
 }
